@@ -1,2 +1,2 @@
-# hotel
+# get.Hotel
 Coding Group Project
